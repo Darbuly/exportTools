@@ -1,0 +1,15 @@
+{
+  "name": "exporttools",
+  "version": "1.0.0",
+  "description": "A tool to generate export.js and dmm_export.js files",
+  "main": "index.js",
+  "bin": {
+    "myexport": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
